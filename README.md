@@ -29,7 +29,7 @@ The automation includes:
    - Qualification questions are completed through **Typeform**
    - Qualified leads are automatically added to **ActiveCampaign CRM**
      
-   ![Lead Capture & Qualification](Home_BigTech_SpeakPro_Form.png)
+   ![Home](Home_BigTech_Form.png)
 
 2. **CRM Pipeline Management**
    - Leads are placed into a **sales pipeline**
