@@ -31,7 +31,7 @@ The automation includes:
    - Status updates track progress through the funnel
    - Lead data is structured for sales follow-up and analysis
 
-     ![Active](ActiveCampaign_2.pdf)
+   ![Active](ActiveCampaign_Pipeline.png)
 
 3. **Email Automation**
    - Automated email sequences send:
@@ -39,15 +39,21 @@ The automation includes:
      - webinar reminders
      - webinar access links
    - Emails are triggered by CRM events and lead status changes
+  
+   ![Active](ActiveCampaign_Leads.png)
 
 4. **Calendar Integration**
    - Using **Make (Integromat)**, webinar events are automatically added to **Google Calendar**
    - This ensures participants receive calendar reminders and easy access to the event
+  
+   ![Active](AC_Calendar_Make.png)
 
 5. **Post-Webinar Follow-up**
    - After the webinar, automated emails guide participants to:
      - book a **strategy call via Calendly**
      - continue engagement through the sales funnel
+    
+   ![Active](ActiveCampaign_Call.png)
 
 ---
 
