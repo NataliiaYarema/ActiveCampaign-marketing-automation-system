@@ -1,5 +1,7 @@
 # ActiveCampaign-marketing-automation-system
 
+![Cover](Home_BigTech_SpeakPro.png)
+
 ## 📋 Overview
 This project demonstrates a **marketing automation system built in ActiveCampaign** for a webinar funnel targeting **IT specialists preparing for job interviews in US companies**.
 
@@ -15,8 +17,8 @@ The automation includes:
 
 ---
 
-## 🖼 Automation Workflow Preview
-![Automation Workflow](activecampaign_webinar_automation.png)
+## 🖼 Sales Pipeline
+![Sales Pipeline](ActiveCampaign_2(1).png)
 
 ---
 
@@ -26,6 +28,8 @@ The automation includes:
    - Leads register via a **Wix landing page**
    - Qualification questions are completed through **Typeform**
    - Qualified leads are automatically added to **ActiveCampaign CRM**
+     
+   ![Lead Capture & Qualification](Home_BigTech_SpeakPro_Form.png)
 
 2. **CRM Pipeline Management**
    - Leads are placed into a **sales pipeline**
