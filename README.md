@@ -18,7 +18,7 @@ The automation includes:
 ---
 
 ## 🖼 Sales Pipeline
-![Sales Pipeline](ActiveCampaign_2(1).pdf)
+![ActiveCampaign](ActiveCampaign_2.pdf)
 
 ---
 
