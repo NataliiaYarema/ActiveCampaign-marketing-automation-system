@@ -1,71 +1,80 @@
 # ActiveCampaign-marketing-automation-system
 
-This project demonstrates a marketing automation system built in ActiveCampaign for a webinar funnel targeting IT specialists preparing for job interviews in US companies.
+## 📋 Overview
+This project demonstrates a **marketing automation system built in ActiveCampaign** for a webinar funnel targeting **IT specialists preparing for job interviews in US companies**.
 
-The system automates the entire lead journey — from lead capture to webinar participation and post-webinar sales follow-up — using CRM automation, integrations, and automated email sequences.
+The system automates the full lead journey — from **lead capture and qualification to webinar participation and post-webinar sales follow-up**.
 
-Project Overview
+The automation includes:
+- Lead capture through a **Wix landing page**
+- Lead qualification using **Typeform**
+- Automatic addition of leads to an **ActiveCampaign CRM pipeline**
+- **Automated email sequences** for confirmations, reminders, and webinar access
+- Integration workflows built with **Make (Integromat)**
+- Post-webinar follow-up emails guiding leads to book a **strategy call via Calendly**
 
-The automation workflow connects multiple tools to create a fully automated webinar funnel:
+---
 
-Leads register via a Wix landing page
+## 🖼 Automation Workflow Preview
+![Automation Workflow](activecampaign_webinar_automation.png)
 
-Lead qualification is completed through Typeform
+---
 
-Qualified leads are automatically added to an ActiveCampaign CRM pipeline
+## 🛠 Automation Setup Steps
 
-Automated email sequences send:
+1. **Lead Capture & Qualification**
+   - Leads register via a **Wix landing page**
+   - Qualification questions are completed through **Typeform**
+   - Qualified leads are automatically added to **ActiveCampaign CRM**
 
-registration confirmation
+2. **CRM Pipeline Management**
+   - Leads are placed into a **sales pipeline**
+   - Status updates track progress through the funnel
+   - Lead data is structured for sales follow-up and analysis
 
-webinar reminders
+3. **Email Automation**
+   - Automated email sequences send:
+     - registration confirmations
+     - webinar reminders
+     - webinar access links
+   - Emails are triggered by CRM events and lead status changes
 
-webinar access links
+4. **Calendar Integration**
+   - Using **Make (Integromat)**, webinar events are automatically added to **Google Calendar**
+   - This ensures participants receive calendar reminders and easy access to the event
 
-Using Make (Integromat), webinar events are automatically added to Google Calendar
+5. **Post-Webinar Follow-up**
+   - After the webinar, automated emails guide participants to:
+     - book a **strategy call via Calendly**
+     - continue engagement through the sales funnel
 
-After the webinar, follow-up emails guide leads to book a strategy call via Calendly
+---
 
-Booked calls move deals forward in the CRM sales pipeline
+## ✅ Outcomes
 
-This setup helps streamline lead management, improve engagement, and automate sales pipeline progression.
+1. **Automated Lead Management**
+   - Leads move automatically from registration to CRM pipeline without manual input.
 
-Automation Flow
+2. **Improved Webinar Attendance**
+   - Reminder sequences and calendar integration help increase participation.
 
-Lead Journey:
+3. **Streamlined Sales Funnel**
+   - Qualified leads progress from webinar attendance to **strategy call booking**.
 
-Landing Page (Wix)
-→ Lead Qualification (Typeform)
-→ ActiveCampaign CRM Pipeline
-→ Automated Email Sequences
-→ Webinar Event (Google Calendar)
-→ Post-Webinar Follow-up
-→ Strategy Call Booking (Calendly)
+4. **Reduced Manual Work**
+   - Integrations between tools automate repetitive marketing and CRM tasks.
 
-Tools & Technologies
+5. **Centralized Lead Data**
+   - All lead activity is tracked within **ActiveCampaign CRM**, enabling better visibility of the funnel.
 
-ActiveCampaign — CRM and email automation
+---
 
-Wix — landing page for lead capture
+## 🧰 Tools Used
+- **ActiveCampaign** — CRM management and email automation  
+- **Wix** — landing page for webinar registration  
+- **Typeform** — lead qualification form  
+- **Make (Integromat)** — automation and integrations  
+- **Google Calendar** — automated webinar event scheduling  
+- **Calendly** — strategy call booking system  
 
-Typeform — lead qualification form
-
-Make (Integromat) — integration and automation workflows
-
-Google Calendar — webinar event scheduling
-
-Calendly — strategy call booking
-
-Key Features
-
-Automated lead capture and qualification
-
-CRM pipeline automation
-
-Automated email sequences
-
-Integration between marketing tools and CRM
-
-Automatic webinar event creation
-
-Post-webinar lead nurturing and conversion workflow
+---
