@@ -17,11 +17,6 @@ The automation includes:
 
 ---
 
-## 🖼 Sales Pipeline
-![ActiveCampaign](ActiveCampaign_2.pdf)
-
----
-
 ## 🛠 Automation Setup Steps
 
 1. **Lead Capture & Qualification**
@@ -35,6 +30,8 @@ The automation includes:
    - Leads are placed into a **sales pipeline**
    - Status updates track progress through the funnel
    - Lead data is structured for sales follow-up and analysis
+
+     ![Active](ActiveCampaign_2.pdf)
 
 3. **Email Automation**
    - Automated email sequences send:
