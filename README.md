@@ -1,6 +1,6 @@
 # ActiveCampaign-marketing-automation-system
 
-![Home]Home_BigTech_SpeakPro.png)
+![Home](Home_BigTech_SpeakPro.png)
 
 ## 📋 Overview
 This project demonstrates a **marketing automation system built in ActiveCampaign** for a webinar funnel targeting **IT specialists preparing for job interviews in US companies**.
